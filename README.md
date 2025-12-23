@@ -27,7 +27,7 @@ transmitted wirelessly via Bluetooth.
 - STM32 HAL Libraries
 - Embedded C
 ## System Architecture
-![Block Diagram](hardware/block_diagram.png)
+![Block Diagram](block_diagram.png)
 ## Working Principle
 - LDR voltage is sampled using STM32 ADC
 - If light level falls below a threshold, LED is turned ON
