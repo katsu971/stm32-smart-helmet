@@ -28,6 +28,8 @@ transmitted wirelessly via Bluetooth.
 - Embedded C
 ## System Architecture
 ![Block Diagram](block_diagram.png)
+![Circuit Diagram](circuit_diagram.png)
+
 ## Working Principle
 - LDR voltage is sampled using STM32 ADC
 - If light level falls below a threshold, LED is turned ON
